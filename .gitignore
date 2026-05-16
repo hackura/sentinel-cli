@@ -1,0 +1,11 @@
+# Binaries
+sentinel
+dist/
+
+# Local Config
+.sentinel/
+config.json
+*.token
+
+# OS files
+.DS_Store
