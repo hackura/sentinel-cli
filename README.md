@@ -9,6 +9,12 @@ Production-grade CLI tool for Hackura Sentinel AI.
 - Formatted output with risk levels and threat signals.
 
 ## Installation
+### Quick Install (Linux & macOS)
+```bash
+curl -fsSL https://sentinel.hackura.app/install.sh | bash
+```
+
+### Manual Build
 ```bash
 make build
 sudo mv sentinel /usr/local/bin/
