@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="128" alt="Hackura Sentinel Logo">
+</p>
+
 # Hackura Sentinel CLI
 
 Production-grade CLI tool for Hackura Sentinel AI.
@@ -43,3 +47,16 @@ sentinel results show <id>
 - Tokens are stored in `~/.sentinel/token` with 0600 permissions.
 - Device IDs are masked in output.
 - All communications are over HTTPS.
+
+## Legal
+### License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Privacy Policy
+Your privacy is critical to us. View our full policy at [sentinel.hackura.app/privacy](https://sentinel.hackura.app/privacy).
+
+### Terms of Service
+By using this CLI, you agree to our terms at [sentinel.hackura.app/terms](https://sentinel.hackura.app/terms).
+
+---
+© 2026 Hackura AI Systems. All rights reserved.
